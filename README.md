@@ -12,5 +12,7 @@ Yeni Menü;
 
 Kendi kullandığınız menu_default scriptinin içinde ki client dosyası ile bunu değiştirin.
 
+Script hakkında destek almak için;
+https://discord.gg/wilddevelopment
 
 
