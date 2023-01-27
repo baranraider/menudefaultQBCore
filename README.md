@@ -2,7 +2,7 @@ OLD QBCore'un kendi menü sistemini qb-menu'ye çevirir.
 
 Anlık data değiştiren menülerde problem çıkartabiliyor.
 
-Eski Yenü;
+Eski Menü;
 
 ![1](https://media.discordapp.net/attachments/847156035302850600/1068585777103130654/Screenshot_1.png)
 
