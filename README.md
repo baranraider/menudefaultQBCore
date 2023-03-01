@@ -8,11 +8,11 @@ Eski Menü;
 
 Yeni Menü;
 
-![1](https://media.discordapp.net/attachments/1069974969431371826/1080499477082804224/image.pngg)
+![1]([https://media.discordapp.net/attachments/1069974969431371826/1080499477082804224/image.pngg](https://media.discordapp.net/attachments/1069974969431371826/1080499477082804224/image.png))
 
 Kendi kullandığınız menu_default scriptinin içinde ki client dosyası ile bunu değiştirin.
 
 Script hakkında destek almak için;
-https://discord.gg/wilddevelopment
+https://discord.gg/wilddev
 
 
